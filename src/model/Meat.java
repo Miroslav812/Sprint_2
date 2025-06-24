@@ -1,5 +1,6 @@
 package model;
 
+
 import constants.Discount;
 
 public class Meat extends Food implements Discountable {
